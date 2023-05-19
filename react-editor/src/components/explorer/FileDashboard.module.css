@@ -1,0 +1,16 @@
+.file-dashboard-container{
+    display:flex;
+    flex-direction: column;
+    width: 15%;
+    height:100%;
+    background:#21182b;
+}
+
+.file-dashboard-container header{
+    font-family: 'Roboto Mono', sans-serif;
+    color:rgba(169, 169, 169, 0.579);
+    font-size:0.5rem;
+    font-weight:bold;
+    padding:0.5rem 1rem;
+
+}

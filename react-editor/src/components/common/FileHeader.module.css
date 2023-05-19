@@ -1,0 +1,11 @@
+.file-header-container{
+    background:#261d32;
+    width:100px;
+    height:100%;
+    display:flex;
+    font-size:0.65rem;
+    align-items:center;
+    justify-content:center;
+    border-bottom:2px solid;
+    border-image:linear-gradient(to bottom right,rgb(169, 105, 228),rgb(126, 57, 230)) 1;
+}

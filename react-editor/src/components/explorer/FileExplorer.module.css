@@ -1,0 +1,13 @@
+.file-explorer-container{
+    height:20%;
+    width:100%;
+}
+
+.file-explorer-container header{
+    font-family: 'Roboto Mono', sans-serif;
+    color:rgba(169, 169, 169, 0.579);
+    font-size:0.5rem;
+    font-weight:bold;
+    padding:0.5rem 1rem;
+
+}
